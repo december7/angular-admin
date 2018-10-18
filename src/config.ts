@@ -2,8 +2,8 @@
 import { environment } from './environments/environment';
 
 const devApi = '/api';
-const prodApi = 'http://localhost:8000/';
-const staticApi = 'http://localhost:8000/';
+const prodApi = 'http://localhost:8000';
+const staticApi = 'http://localhost:8000';
 
 let exportApi;
 
