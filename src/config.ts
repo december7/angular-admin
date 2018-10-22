@@ -2,8 +2,8 @@
 import { environment } from './environments/environment';
 
 const devApi = '/api';
-const prodApi = 'http://api.qiekenol.com';
-const staticApi = 'http://api.qiekenol.com';
+const prodApi = 'https://api.qiekenol.com';
+const staticApi = 'https://api.qiekenol.com';
 
 let exportApi;
 
