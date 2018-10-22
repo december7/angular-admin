@@ -16,7 +16,7 @@ export class Auth {
 
   public password:string;
   public editMode:Boolean = false;
-  public slogans = ['Done is better than perfect.', '远离颠倒梦想，究竟涅槃', 'དཀར་གསལ་ཟླ་བ་ཤར་བྱུང་།, ཤར་ཕྱོགས་རི་བོའི་རྩེ་ནས།'];
+  public slogans = ['请输入密码', '请输入密码', '请输入密码'];
   public slogan:string = this.slogans[Math.floor(Math.random() * 3)];
 
   constructor(public elem:ElementRef, 

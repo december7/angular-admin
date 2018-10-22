@@ -3,7 +3,7 @@ import { environment } from './environments/environment';
 
 const devApi = '/api';
 const prodApi = 'https://api.qiekenol.com';
-const staticApi = 'https://api.qiekenol.com';
+const staticApi = 'https://admin.qiekenol.com';
 
 let exportApi;
 
